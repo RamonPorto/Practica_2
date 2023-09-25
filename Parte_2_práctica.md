@@ -11,6 +11,3 @@ docker run -dit --name asir_web1 -p 8000:80 -v "$PWD"/htdocs:/usr/local/apache2/
 ~~~
 
 **Importante parar el otro contenedor, ya que tiene el mismo puerto**
-
-
-
