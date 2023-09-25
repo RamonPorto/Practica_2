@@ -1,4 +1,4 @@
-# Practica_2
+# Practica_2 - Parte 1
 ## Ejercicio 1
 Para descargar la **imagen de apache** usaremos el siguiente **comando**
 ~~~
